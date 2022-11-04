@@ -1,0 +1,146 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  background-image: url("./assets/free-squared-paper-vector.jpg");
+  }
+
+.navbar,
+label {
+  background: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
+}
+
+.btn-light{
+  border: 5px solid white !important;
+}
+.btn-success {
+  background: radial-gradient(
+    circle,
+    rgba(191, 244, 99, 1) 0%,
+    rgba(18, 244, 34, 1) 100%
+  );
+}
+
+.btn-danger {
+  background: radial-gradient(
+    circle,
+    rgba(244, 99, 139, 1) 0%,
+    rgba(244, 18, 18, 1) 100%
+  );
+}
+
+.btn-primary {
+  background: radial-gradient(
+    circle,
+    rgba(99, 169, 244, 1) 0%,
+    rgba(69, 18, 244, 1) 100%
+  );
+}
+
+button {
+  font-family: "Castoro", serif;
+  font-size: 18px;
+  border-radius: 10%;
+}
+
+/* .bg-primary {
+  background: linear-gradient(
+    0deg,
+    rgb(155, 202, 245) 0%,
+    rgb(32, 25, 254) 100%
+  );
+} */
+.bg-blue{
+  background-color:  #b9e4fe !important;
+}
+.bg-gray{
+  background-color: #d8e1e0!important;
+}
+.bg-green{
+  background-color: #9fe47f !important ;
+}
+.bg-red{
+  background-color: #f5989c !important;
+}
+.bg-yellow{
+  background-color: #ffef5c !important;
+}
+.bg-turquoise{
+  background-color: #cff4f4 !important;
+}
+.bg-white{
+
+}
+/* 
+.bg-secondary {
+  background: linear-gradient(
+    0deg,
+    rgb(210, 210, 210) 0%,
+    rgb(84, 84, 84) 100%
+  );
+} */
+/* 
+.bg-secondary{
+  background-color: #d8e1e0!important;
+} */
+/* .bg-success {
+  background: linear-gradient(0deg, rgb(45, 222, 51) 0%, rgb(0, 99, 15) 100%);
+}
+
+.bg-danger {
+  background: linear-gradient(0deg, rgb(245, 97, 97) 0%, rgb(177, 0, 0) 100%);
+} */
+/* 
+.bg-warning {
+  background: linear-gradient(
+    0deg,
+    rgba(255, 253, 226, 1) 0%,
+    rgba(255, 254, 0, 1) 100%
+  );
+}
+
+.bg-info {
+  background: linear-gradient(
+    0deg,
+    rgba(44, 255, 254, 1) 0%,
+    rgba(1, 177, 221, 1) 100%
+  );
+} */
+
+/* .bg-dark {
+  background: linear-gradient(
+    0deg,
+    rgba(68, 68, 68, 1) 0%,
+    rgb(12, 12, 12) 100%
+  );
+}
+
+.bg-light {
+  background: linear-gradient(
+    0deg,
+    rgb(225, 225, 225) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+} */
+/* 
+.bg-primary,
+.bg-secondary,
+.bg-success,
+.bg-danger,
+.bg-dark {
+  color: white;
+} */
+.card-title{
+  font-size: 24px;
+  opacity: 90%;
+}
+.card-subtitle{
+  font-size: 16px;
+  opacity: 80%;
+}
+.card-text{
+  opacity: 70%;
+}
+.card-footer {
+  /* color: red; */
+  opacity: 35%;
+}

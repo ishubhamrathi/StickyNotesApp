@@ -1,0 +1,16 @@
+.btn-group button {
+  height: 45px;
+}
+
+hr {
+  border-top: 1px solid #8c8b8b;
+}
+
+.card {
+  border-radius: 5%;
+}
+
+span {
+  font-family: cursive;
+  font-weight: 900;
+}

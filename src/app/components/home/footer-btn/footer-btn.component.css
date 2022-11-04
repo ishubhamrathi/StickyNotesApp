@@ -1,0 +1,14 @@
+button {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  margin-bottom: 30px;
+  height: 55px;
+  width: 65vw;
+  transform: translateX(-50%);
+  font-weight: 600;
+}
+
+#ftr-btn{
+  background:linear-gradient(160deg, #0093E9 0%, #80D0C7 100%); ;
+}

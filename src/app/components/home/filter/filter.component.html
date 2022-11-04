@@ -1,0 +1,33 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                  	<label class="input-group-text text-white">Search</label>
+                </div>
+
+                <input type="text" class="form-control" placeholder="topic"
+                    name="topic" [(ngModel)]="topicSelected">
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                  	<label class="input-group-text text-white">Filter Color</label>
+				</div>
+				
+                <select class="custom-select custom-border" name="color" [(ngModel)]="colorSelected">
+                  <option selected></option>
+                  <option *ngFor="let color of colors">{{ color }}</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</div>
+
+<app-sticky-note-list 
+    [stickyNotes]="stickyNotes" 
+    [colorSelected]="colorSelected"
+    [topicSelected]="topicSelected">
+</app-sticky-note-list>
