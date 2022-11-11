@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/ishubhamrathi/Documents/vsCode/angular/projects/Sticky-Notes/src/polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! /home/ishubhamrathi/Documents/vsCode/StickyNotesApp/src/polyfills.ts */"hN/g");
 
 
 /***/ }),

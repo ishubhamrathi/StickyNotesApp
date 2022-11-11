@@ -89,7 +89,7 @@ StickyNoteModalComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵ�
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/ishubhamrathi/Documents/vsCode/angular/projects/Sticky-Notes/src/main.ts */"zUnb");
+module.exports = __webpack_require__(/*! /home/ishubhamrathi/Documents/vsCode/StickyNotesApp/src/main.ts */"zUnb");
 
 
 /***/ }),

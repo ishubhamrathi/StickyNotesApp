@@ -7,8 +7,8 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/ishubhamrathi/Documents/vsCode/angular/projects/Sticky-Notes/src/styles.css */"OmL/");
-module.exports = __webpack_require__(/*! /home/ishubhamrathi/Documents/vsCode/angular/projects/Sticky-Notes/node_modules/bootstrap/dist/css/bootstrap.min.css */"q4sD");
+__webpack_require__(/*! /home/ishubhamrathi/Documents/vsCode/StickyNotesApp/src/styles.css */"OmL/");
+module.exports = __webpack_require__(/*! /home/ishubhamrathi/Documents/vsCode/StickyNotesApp/node_modules/bootstrap/dist/css/bootstrap.min.css */"q4sD");
 
 
 /***/ }),
